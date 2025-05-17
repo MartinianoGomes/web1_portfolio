@@ -45,3 +45,25 @@ body {
     background-color: var(--gray-200);
     color: var(--gray-500);
 }
+
+.section-center {
+    display: flex;
+    justify-content: center;
+}
+
+.section-center .center .header {
+    text-align: center;
+}
+
+.section-center .center .header p {
+    font: var(--text-lg);
+    color: var(--red);
+
+    margin-block-end: 8px;
+}
+
+.section-center .center .grid .card .text {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
