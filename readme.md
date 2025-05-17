@@ -6,12 +6,12 @@
 
 Considere todos os itens estudados em laboratório:
 
-▪ Unidades de medida
-▪ Tags semânticas
-▪ FlexBox
-▪ Cores
-▪ Seletores
-▪ CSS Grid
+- Unidades de medida
+- Tags semânticas
+- FlexBox
+- Cores
+- Seletores
+- CSS Grid
 
 ## Links úteis
 
